@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "674861751602",
+    "project_id": "signin-953d5",
+    "storage_bucket": "signin-953d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674861751602:android:9dbc683b7ccc1e33510b2b",
+        "android_client_info": {
+          "package_name": "com.ssgamingunity.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674861751602-6hl19jo29gn5eqlghmt3pcqnnokch3m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssgamingunity.googlesignin",
+            "certificate_hash": "2f7f3f4c8ea0763c1a88843be4b8b0df4e124cc3"
+          }
+        },
+        {
+          "client_id": "674861751602-mi809cken04pegicbjap90jgc1jgp80n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDee1kmnpDt7h4F0DuYcVNd0PHpHaoqnE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674861751602-mi809cken04pegicbjap90jgc1jgp80n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
